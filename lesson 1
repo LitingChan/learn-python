@@ -12,3 +12,6 @@ Welcome to Python!
   Python has several ifferent impplementations, written in various languages. 
   The version used in this course, CPyton, is the most popular by far. 
     An interpreter is a program that runs scripts written in an interpreted language such as Python.
+Your First Program
+  Let's start off by creating a short program that displays "Hello world!".
+  In Python, we use the print statement to output text:
