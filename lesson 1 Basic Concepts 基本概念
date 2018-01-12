@@ -24,4 +24,22 @@
       18
       >>>10 / 2
       5.0
+      Using a single slash to divide numbers produces a decimal (or float, as it is called in programming). We'll have moreabout floats in a later lesson.
+3.3 Simple Operations
+      The minus sign indicates a negative number.
+      Operations are performed on negative numbers, just as they are on positive ones.
+      >>>-7
+      -7
+      >>>(-7 + 2) * (-4)
+      20
+      The plus signs can also be put in front of numbers, but this has no effect, and is mostly used to emphasize that a number is positive to increase readability of code.
+3.4 Simple Operations - error
+      Dividing by zro in Python produces an error, as no answer can be calculated.
+      >>>11 / 0
+      Traceback(most recent call last):
+      file"<stdin>", line 1, in<module>
+      ZeroDivisionError:division by zero
+      In Python, the last linee of an error message indicates the error's type.
+      Read error messages carefully, as they often tell you how to fix a program!
+      
       
