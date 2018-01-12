@@ -9,7 +9,7 @@
     Hello world
      
     The virable"print"
-3.1 Simple Operations
+3.1 Simple Operations - add
       Python has the capability of carrying out calculations.
       Enter a calculation directly into the Python console, and it will output the anser.
       >>>2 + 2
@@ -17,7 +17,7 @@
       >>>5 + 4 - 3
       6
       The spaces around the plus and minus signs here are optional (the code would work without them), but they make it easier to read.
-3.2 Simple Operations
+3.2 Simple Operations - multiplication 
       Python also carries out multiplication and division, using an asterisk to indicate multiplication and a forward slash to indicate division. 
       use parentheses to determine which operations are performed first.
       >>>2 * (4 + 5)
@@ -25,7 +25,7 @@
       >>>10 / 2
       5.0
       Using a single slash to divide numbers produces a decimal (or float, as it is called in programming). We'll have moreabout floats in a later lesson.
-3.3 Simple Operations
+3.3 Simple Operations - negative number
       The minus sign indicates a negative number.
       Operations are performed on negative numbers, just as they are on positive ones.
       >>>-7
