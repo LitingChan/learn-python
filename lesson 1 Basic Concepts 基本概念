@@ -1,0 +1,27 @@
+1.1 What is Python?
+     Python is a high-level program language, with applictions in numerous areas, including web programming, scripting, scientific computing, and artificial intelligence. 
+     It is very popular and used by organizations such as Google, NASA, the CIA, and Disney.
+     高级编程语言，包括：WEB编程，大数据，科学计算和人工智能。
+1.2 Python 2.X与Python 3.X(略)
+2.1 Your First Program
+    The first program: "Hello world"
+    >>>print("Hello world")
+    Hello world
+     
+    The virable"print"
+3.1 Simple Operations
+      Python has the capability of carrying out calculations.
+      Enter a calculation directly into the Python console, and it will output the anser.
+      >>>2 + 2
+      4
+      >>>5 + 4 - 3
+      6
+      The spaces around the plus and minus signs here are optional (the code would work without them), but they make it easier to read.
+3.2 Simple Operations
+      Python also carries out multiplication and division, using an asterisk to indicate multiplication and a forward slash to indicate division. 
+      use parentheses to determine which operations are performed first.
+      >>>2 * (4 + 5)
+      18
+      >>>10 / 2
+      5.0
+      
