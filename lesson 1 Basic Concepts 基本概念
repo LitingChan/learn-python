@@ -41,5 +41,14 @@
       ZeroDivisionError:division by zero
       In Python, the last linee of an error message indicates the error's type.
       Read error messages carefully, as they often tell you how to fix a program!
+ 3.5 Floats
+      Floats are used in Python to represent number that aren't integers.
+      Some examples of numbers that are represented as flots are 0.5 and -7.8237591.
+      They can be created directly by entering a number's decimal point, or by using operations such as division on intergers. Extra zeros at the number's end are ignored.
+      >>> 3/4
+      0.75
+      >>> 9.8765000
+      9.8765
+      Computers cant't store floats perfectly accuratey, in the same way tha we can't write down the complete decimal expansion of 1/3(0.333333333...). Keep this in mind, because it ofen leads to infuriating bugs!
       
       
